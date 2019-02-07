@@ -1,0 +1,46 @@
+{
+	"profile":{
+		"img":"alia.jpg",
+		"name":"jayasri",
+		"roll":"17a31a1226",
+		"institute":"pragati",
+		"place":"surampalem"
+	},
+	"career":{
+
+		"info":"development"
+	},
+	"education":[
+		{
+			"sno":"1",
+			"degree":"b.tech",
+			"institute":"prag",
+			"yop":"2018"
+		},
+		{
+			"sno":"2",
+			"degree":"intermediate",
+			"institute":"college",
+			"yop":"2010"
+		},
+		{
+			"sno":"3",
+			"degree":"b.tech",
+			"institute":"school",
+			"yop":"2008"
+		}
+
+	],
+	"languages":[
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"telugu"
+
+		},
+		{
+			"lang":"hindi"
+		}
+	]
+}

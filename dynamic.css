@@ -1,0 +1,15 @@
+body{
+	background: lightblue;
+}
+.left{
+	background: red;
+	margin: 3%;
+	border-radius: 5%;
+	box-shadow: 5px 5px 5px 5px;
+	padding: 2%;
+
+	justify-content: space-round;
+	height: 25%;
+	width: 35%;
+
+}	

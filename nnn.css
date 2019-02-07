@@ -1,0 +1,26 @@
+body{
+	background: grey;
+}
+
+#maindiv{
+	background: pink;
+	display: flex;
+	justify-content:space-between;
+	margin:1%;
+	border-radius:5;
+}
+.subdiv{
+	background: bisque;
+	margin:35%;
+	border-radius: 5%;
+	text-align: center;
+	box-shadow:4px 4px 4px 4px;
+}
+.subdiv{
+	width: 50%;
+}
+img{
+	margin: 3%;
+	border-radius: 4%;
+	width: 40;
+}
